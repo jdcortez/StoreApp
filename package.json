@@ -1,5 +1,5 @@
 {
-  "name": "StorefrontPage",
+  "name": "StoreApp",
   "version": "1.0.0",
   "description": "Intro to CSS and HTML by creating a static mock storefront page",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jdcortez/StorefrontPage.git"
+    "url": "git+https://github.com/jdcortez/StoreApp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jdcortez/StorefrontPage/issues"
+    "url": "https://github.com/jdcortez/StoreApp/issues"
   },
-  "homepage": "https://jdcortez.github.io/StorefrontPage",
+  "homepage": "https://jdcortez.github.io/StoreApp",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
